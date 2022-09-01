@@ -2,8 +2,7 @@
 REPOSITORIO
 
 ## Welcome to Jesus REPOSITORY
-
-Here I will upload the files that I do in the programming subject
+In this page i will upload the files that I do in the programming subject
 
 
 ⠀⠀⠀⠀⠀⠀⠀⢀⠆⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡀⠀⠰⡀⠀⠀⠀⠀⠀⠀⠀
