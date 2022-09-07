@@ -9,7 +9,7 @@ now i learn the lenguages of programming to C++ in the 	IDE (Entorno de desarrol
 BYE BYE i go to learn and put in practice my knowledge
 
 
-![No images to watch](imagenes/workpeople.jfif)
+![No images to watch](imagenes/dev.jfif)
 
 
 In this page i will upload the files that I do in the programming subject
@@ -66,4 +66,4 @@ In this page i will upload the files that I do in the programming subject
 
 i´m going to work bye bye...
 END 
-![no image](imagenes/descarga.jfif)
+
