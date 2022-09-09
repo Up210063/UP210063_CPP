@@ -18,9 +18,9 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 
 <div align= "center">
 
-
 # VISUAL STUDIO CODE
 
+![no imagen](imagenes/vsc.jpeg)
 
 <div>
 
