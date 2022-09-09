@@ -10,18 +10,22 @@ REPOSITORY
 
 <div align= "justify">
 
-Welcome to my repository im a developer to differents parts of software i like HTML, CSS & JAVASCRIPT obiously i try to upgrade my knows to this tecnologies. 
-Now i learn the lenguages of programming to C++ in the 	IDE - 
+Welcome to my repository im a developer-student to differents parts of software i like HTML, CSS & JAVASCRIPT obiously i try to upgrade my knows to this tecnologies. 
+
+Now i learn the lenguages of programming to C++ in the 	IDE 
 
 <div>
 
-<div align= "justify">
+<div align= "center">
+
 
 # VISUAL STUDIO CODE
 
 
+<div>
 
-    
+<div align= "justify">
+   
 How to install visual studio code in a terminal linux (ubuntu)? 
  
 ## Step 1
