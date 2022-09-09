@@ -1,14 +1,43 @@
+<div align= "center">
+
 # UP210063_CPP
-REPOSITORIO
 
-## Welcome to Jesus REPOSITORY
+<div>
 
-<h2>
-welcome to my repository im a developer to differents parts of software i like HTML, CSS & JAVASCRIPT obiously i try to upgrade my knows to this tecnologies
-now i learn the lenguages of programming to C++ in the 	IDE (Entorno de desarrollo integrado) VISUAL STUDIO CODE and i stay very nervous for this trip to my companions in class 
-<h2>
+REPOSITORY 
 
-BYE BYE i go to learn and put in practice my knowledge
+## Welcome to my REPOSITORY 
+
+<div align= "justify">
+
+Welcome to my repository im a developer to differents parts of software i like HTML, CSS & JAVASCRIPT obiously i try to upgrade my knows to this tecnologies. 
+Now i learn the lenguages of programming to C++ in the 	IDE - 
+
+<div>
+
+<div align= "justify">
+
+# VISUAL STUDIO CODE
+
+
+
+    
+How to install visual studio code in a terminal linux (ubuntu)? 
+ 
+## Step 1
+    First you push the keycaps on your keybord in this sequence 
+    "Ctrl+Alt+T" (to open the terminal)
+ ## Step 2    
+    After then you introduce the next code in terminal 
+    " sudo snap install --classic code "
+## Step 3 
+    Wait to finish the install the visual studio code in your device and enjoy your new IDE 
+    
+ 
+<div align= "justify">
+I have nervous for this new trip to become a great person in a programming world  
+
+
 
 ![no imagen](imagenes/dev.jfif)
 
