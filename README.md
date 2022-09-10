@@ -65,8 +65,3 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 
 <div>
 <div>
-
-
-
-
-
