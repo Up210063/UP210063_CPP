@@ -26,7 +26,7 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 
 <div align= "justify">
    
-How to install visual studio code in a terminal linux (ubuntu)? 
+# How to install visual studio code in a terminal linux (ubuntu)? 
  
 ## Step 1
     First you push the keycaps on your keybord in this sequence 
@@ -37,27 +37,33 @@ How to install visual studio code in a terminal linux (ubuntu)?
 ## Step 3 
     Wait to finish the install the visual studio code in your device and enjoy your new IDE 
     
- 
-<div align= "justify">
-I have nervous for this new trip to become a great person in a programming world  
+ <div>
+
+<div align= "center">
+
+# MAIN STRUCTURE 
+
+<div>
+
+<div align = "justify ">
+
+### In this page i will upload the files that I do in the programming subject on the unit 1 to unit 4
+
+> 1. Unit 1 " Programming introduction "
+> 2. Unit 2 " Control structures and cycles "
+> 3. Unit 3 " Functions "
+> 4. Unit 4 " Files and arrays "
+
+## If you have a suggestion let me know !!
+
+<div align ="center">
+
+<img alt="dev2" height="190" width= "290" src="imagenes/dev2.jfif"/>
+
+<div>
+<div>
 
 
 
-![no imagen](imagenes/dev.jfif)
 
-
-In this page i will upload the files that I do in the programming subject
-        
-SEE YOU AGAIN !!
-
-
-
-![no imagen](imagenes/dev2.jfif)
-
-
-
-⠀⠀⠀⠀⠀
-
-i´m going to work bye bye...
-END 
 
