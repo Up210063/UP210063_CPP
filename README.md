@@ -49,6 +49,8 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 
 ### In this page i will upload the files that I do in the programming subject on the unit 1 to unit 4
 
+<div>
+
 <div align="left">
 
 > 1. Unit 1 " Programming introduction "
@@ -58,11 +60,13 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 
 <div>
 
-## If you have a suggestion let me know !!
 
 <div align ="center">
+
+## If you have a suggestion let me know !!
 
 <img alt="dev2" height="200" width= "290" src="imagenes/dev2.jfif"/>
 
 <div>
-<div>
+
+# what is c++ ?
