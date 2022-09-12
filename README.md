@@ -62,7 +62,7 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 
 <div align ="center">
 
-<img alt="dev2" height="190" width= "290" src="imagenes/dev2.jfif"/>
+<img alt="dev2" height="200" width= "290" src="imagenes/dev2.jfif"/>
 
 <div>
 <div>
