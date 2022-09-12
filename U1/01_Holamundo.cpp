@@ -27,4 +27,3 @@ Last modification: ##
     //Return 0 means that the programm ends succesfully
     return 0;
  }
-
