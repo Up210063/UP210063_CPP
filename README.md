@@ -50,7 +50,7 @@ you can use different extensions if you like other
 
 
 
-<a href="#https://www.youtube.com/watch?v=PmdbndOoKq4"> ➤ TUTORIAL: "HOW INSTALL EXTENCIONS IN VISUAL STUDIO CODE"</a>
+<a href="https://www.youtube.com/watch?v=PmdbndOoKq4"> ➤ TUTORIAL: "HOW INSTALL EXTENCIONS IN VISUAL STUDIO CODE"</a>
 
 <a href=" #h"> ➤ Results and Discussion</a>
 
