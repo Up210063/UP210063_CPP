@@ -50,11 +50,14 @@ you can use different extensions if you like other
 ![no imagen](imagenes/Ext.png)
 
 <a href="https://www.youtube.com/watch?v=PmdbndOoKq4"> ➤ TUTORIAL: "HOW INSTALL EXTENSIONS IN VISUAL STUDIO CODE"</a>
+<div>
+
+<div align="left">
 
 > 1. After you watched this video you can install the extensions in Visual Studio Code 
-
- 
  <div>
+
+<div align="center">
 
 # MAIN STRUCTURE 
 
