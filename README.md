@@ -38,6 +38,7 @@ Now i learn the lenguages of programming to C++ in the 	IDE
     Wait to finish the install the visual studio code in your device and enjoy your new IDE 
     
 
+
 # What visual extensions do I use to program in C++?
 
 <p> 
@@ -45,7 +46,7 @@ In this IDE there are different types of extensions that people used to programm
 you can use different extensions if you like other
 <p>
 
-<div align= "center">
+<div align="center">
 
 ![no imagen](imagenes/Ext.png)
 
@@ -86,7 +87,11 @@ you can use different extensions if you like other
 <img alt="dev2" height="200" width= "290" src="imagenes/dev2.jfif"/>
 
 <div>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img alt="work" height="500" width= "500" src="imagenes/work.jpg"/>
 
-# what is c++ ?
+<div align="center">
+
+# Other topics
+
+<div>
+
+<a href="#"> ➤ What is c++ </a>
