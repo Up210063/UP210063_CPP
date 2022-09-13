@@ -1,6 +1,6 @@
 /*  CABECERA DE PROGRAMA
 Date: 12/09/2022
-Author:Jesùs Alejandro Chàvez Macìas
+Author:UP210063 J* A* C* M*
 Description: Mi primer programa en C++
 Email: up210063@alumnos.upa.edu.mx
 Last modification: ##
