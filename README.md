@@ -82,6 +82,7 @@ you can use different extensions if you like other
 <img alt="dev2" height="200" width= "290" src="imagenes/dev2.jfif"/>
 
 <div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img alt="work" height="500" width= "500" src="imagenes/work.jpg"/>
 
 # what is c++ ?
-
