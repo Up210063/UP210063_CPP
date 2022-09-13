@@ -43,19 +43,21 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 <p> 
 In this IDE there are different types of extensions that people used to programming in C++ in this case I upload my extensions
 you can use different extensions if you like other
+<p>
 
 <div align= "center">
 
 ![no imagen](imagenes/Ext.png)
 
+<a href="https://www.youtube.com/watch?v=PmdbndOoKq4"> ➤ TUTORIAL: "HOW INSTALL EXTENSIONS IN VISUAL STUDIO CODE"</a>
 
-
-<a href="https://www.youtube.com/watch?v=PmdbndOoKq4"> ➤ TUTORIAL: "HOW INSTALL EXTENCIONS IN VISUAL STUDIO CODE"</a>
-
-<a href=" #h"> ➤ Results and Discussion</a>
-
+> 1. After you watched this video you can install the extensions in Visual Studio Code 
+> 3. NOTE:  
  <div>
-<p>
+
+
+
+
 
 
 # MAIN STRUCTURE 
