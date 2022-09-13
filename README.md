@@ -48,11 +48,9 @@ you can use different extensions if you like other
 
 ![no imagen](imagenes/Ext.png)
 
-<li><a href="#https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"> ➤ C/C++ </a></li>
 
-<li><a href="#prerequisites"> ➤ U2</a></li>
-<li><a href="#folder-structure"> ➤ U3</a></li>
-<li><a href="#dataset"> ➤ U4</a></li>
+
+<a href="#https://www.youtube.com/watch?v=PmdbndOoKq4"> ➤ TUTORIAL: "HOW INSTALL EXTENCIONS IN VISUAL STUDIO CODE"</a>
 
 <a href=" #h"> ➤ Results and Discussion</a>
 
