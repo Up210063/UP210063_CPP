@@ -48,7 +48,7 @@ you can use different extensions if you like other
 
 ![no imagen](imagenes/Ext.png)
 
-<li><a href="ttps://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"> ➤ C/C++ </a></li>
+<li><a href="#https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"> ➤ C/C++ </a></li>
 
 <li><a href="#prerequisites"> ➤ U2</a></li>
 <li><a href="#folder-structure"> ➤ U3</a></li>
