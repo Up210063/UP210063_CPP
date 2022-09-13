@@ -37,9 +37,23 @@ Now i learn the lenguages of programming to C++ in the 	IDE
 ## Step 3 
     Wait to finish the install the visual studio code in your device and enjoy your new IDE 
     
- <div>
+
+# What visual extensions do I use to program in C++?
+
+<p> 
+In this IDE there are different types of extensions that people used to programming in C++ in this case I upload my extensions
+you can use different extensions if you like other
 
 <div align= "center">
+
+![no imagen](imagenes/Ext.png)
+
+    
+<a href=" #https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"> ➤ Results and Discussion</a>
+
+ <div>
+<p>
+
 
 # MAIN STRUCTURE 
 
