@@ -20,7 +20,7 @@ Last modification: ##
  int main (){
 
     //print on screen the text
-    std::cout << "Hello World!! This is my first program in cpp(c++)";
+    std::cout << "Hello World!! This is my first program in cpp(c++)" << std::endl;
 
 
 
