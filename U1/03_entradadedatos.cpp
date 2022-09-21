@@ -24,7 +24,6 @@ cout << "============================================" << endl;
 cout << "Ingresa un nùmero decimal: " << endl;
 cin >> flotante;
 cout << "El numero decimal ingresado es: " << flotante <<endl;
-cout << "El tamaño del decimal es: " << sizeof(flotante) << "bytes" << endl;
 
 cout << "============================================" << endl;
 
