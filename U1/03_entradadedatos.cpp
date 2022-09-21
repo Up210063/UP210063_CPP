@@ -12,12 +12,16 @@ Last modification: ##
 using namespace std;
 
 int main (){
-int numero; 
+int entero; float flotante;
 
-cout << "Dame un numero: " <<endl;
-cin >> numero;
+cout << "Dame un numero entero : " <<endl;
+cin >> entero;
+cout << "El numero entero ingresado es: " << entero << endl;
+cout << "el tamaño del entero es : " << sizeof(entero) << "bytes" << endl;
 
-cout << "El numero ingresado es: " << numero << endl;
-
+cout << "Ingresa un nùmero decimal: " << endl;
+cin >> flotante;
+cout << "El numero decimal ingresado es: " << flotante <<endl;
+cout << "El tamaño del decimal es: " << sizeof(flotante) << "bytes" << endl;
 return 0;
 }
