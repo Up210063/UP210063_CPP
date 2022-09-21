@@ -19,9 +19,14 @@ cin >> entero;
 cout << "El numero entero ingresado es: " << entero << endl;
 cout << "el tamaño del entero es : " << sizeof(entero) << "bytes" << endl;
 
+cout << "============================================" << endl;
+
 cout << "Ingresa un nùmero decimal: " << endl;
 cin >> flotante;
 cout << "El numero decimal ingresado es: " << flotante <<endl;
 cout << "El tamaño del decimal es: " << sizeof(flotante) << "bytes" << endl;
+
+cout << "============================================" << endl;
+
 return 0;
 }
