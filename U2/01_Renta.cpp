@@ -20,18 +20,25 @@ anual y muestre por pantalla el tipo impositivo que
 le corresponde
 */
 
+//Libreria  para manejo de entradas y salidas.
 #include <iostream>
+
+//Uso del namespace para evitar el std::
 using namespace std;
 
+//Función principal de tipo entero
 int main(){
-
-   int porcentaje;
-   int rentaAnual;
-    int porcentajeInteres;
-
+    
+    //Declarar las variables.
+    float porcentaje;
+    float rentaAnual;
+   
+    // ingreso de variable renta 
     cout << " Cual es tu renta anual: " << endl;
     cin >> rentaAnual;
+    
 
+    // Razona las variables renta para obtener el porcentaje 
     if (rentaAnual < 10000)
     {
         porcentaje =.05;
@@ -52,9 +59,11 @@ int main(){
     {
         porcentaje = .45;
     }
-        cout << "el porcentaje anual es : " << porcentaje << endl;
-        porcentajeInteres = porcentaje * 100;
-        cout << "el interes anual es : " << porcentajeInteres << endl;
+    
+    // visualizar los resultados 
+    cout << "el porcentaje anual es : " << (porcentaje*100) << "%" << endl;
+    cout << "el interes anual es : " << (rentaAnual*porcentaje) << endl;
+
     return 0;
 }
 
