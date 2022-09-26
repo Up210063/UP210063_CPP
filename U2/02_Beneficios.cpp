@@ -40,7 +40,7 @@ int main(){
     if (puntuacion == 0.0)
     {
         cout << "tu rendimiento es inaceptable" << endl; 
-        cout << "tu rendimiento es de " << rendimiento;
+        
     }
     else if (((puntuacion == 0.4) || (puntuacion >= 0.6)) && (puntuacion <=1))
     {
@@ -48,11 +48,12 @@ int main(){
         if ((puntuacion >= 0.6) && (puntuacion <=1))
     {
         cout << "tu rendimiento es meritorio" << endl;
-        cout << "tu rendimiento es de " << rendimiento;   
+          
     } else{
         cout << "tu rendimiento es aceptable" << endl;
-        cout << "tu rendimiento es de " << rendimiento;
+        
     }
     }
+    cout << "tu rendimiento es de " << rendimiento; 
     return 0;
 }
