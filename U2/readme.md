@@ -7,8 +7,9 @@
 <div align= justify>
 
 ## What is the purpose of this program? well, the program was made with a simple instruction
-### this instruction is:
-    the tax brackets for the declaration of income
+
+## This instruction is:
+    The tax brackets for the declaration of income
     in a given country are the following:
 
     Tax rate income
@@ -24,34 +25,67 @@
 
 <div>
 
+<div align = "center">
+
+# INPUT
+<div>
+
+<div align = "justify">
+
 ```c++
 // introduce the rent account 
-    cout << " Cual es tu renta anual: " << endl;
-    cin >> rentaAnual;
+    cout << " What is your AnnualRent: " << endl;
+    cin >> AnnualRent;
     
+```
+<div>
 
-    // the variables are validated by the functions 
-    if (rentaAnual < 10000)
+<div align = "center">
+
+# PROCCESS
+<div>
+
+<div align = "justify">
+
+```c++
+                // the variables are validated by the functions 
+    if (AnnualRent < 10000)
     {
-        porcentaje =.05;
+        Tax =.05;
     }
-    else if (rentaAnual >= 10000 & rentaAnual <20000 )
+    else if (AnnualRent >= 10000 & AnnualRent <20000 )
     {
-        porcentaje = .15;
+        Tax = .15;
     }
-    else if (rentaAnual >= 20000 & rentaAnual <35000)
+    else if (AnnualRent >= 20000 & AnnualRent <35000)
     {
-        porcentaje = .20;
+        Tax = .20;
     }
-    else if (rentaAnual >= 35000 & rentaAnual < 60000)
+    else if (AnnualRent >= 35000 & AnnualRent < 60000)
     {
-        porcentaje = .30;
+        Tax = .30;
     }
-    else if (rentaAnual >= 60000 )
+    else if (AnnualRent >= 60000 )
     {
-        porcentaje = .45;
+        Tax = .45;
     }
     
-    // you can see the results in this part 
-    cout << "el porcentaje anual es : " << (porcentaje*100) << "%" <<endl;
-    cout << "el interes anual es : " << (rentaAnual*porcentaje) << endl;
+```
+
+<div>
+
+<div align = "center" >
+
+# OUTPUT 
+<div>
+
+
+<div align = justify>
+
+```c++    
+                    // you can see the results in this part 
+    cout << "your Annual Tax is : " << (Tax*100) << "%" << endl;
+    cout << "your AnnualRent with Tax is : " << (AnnualRent*Tax) << endl;
+
+```
+<div>
