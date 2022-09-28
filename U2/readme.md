@@ -33,7 +33,7 @@
 <div align = "justify">
 
 ```c++
-// introduce the rent account 
+                        // introduce the rent account 
     cout << " What is your AnnualRent: " << endl;
     cin >> AnnualRent;
     
