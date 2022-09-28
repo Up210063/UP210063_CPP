@@ -30,39 +30,39 @@ using namespace std;
 int main(){
     
     //Declarar las variables.
-    float porcentaje;
-    float rentaAnual;
+    float Tax;
+    float AnnualRent;
    
     // ingreso de variable renta 
-    cout << " Cual es tu renta anual: " << endl;
-    cin >> rentaAnual;
+    cout << " What is your AnnualRent: " << endl;
+    cin >> AnnualRent;
     
 
     // Razona las variables renta para obtener el porcentaje 
-    if (rentaAnual < 10000)
+    if (AnnualRent < 10000)
     {
-        porcentaje =.05;
+        Tax =.05;
     }
-    else if (rentaAnual >= 10000 & rentaAnual <20000 )
+    else if (AnnualRent >= 10000 & AnnualRent <20000 )
     {
-        porcentaje = .15;
+        Tax = .15;
     }
-    else if (rentaAnual >= 20000 & rentaAnual <35000)
+    else if (AnnualRent >= 20000 & AnnualRent <35000)
     {
-        porcentaje = .20;
+        Tax = .20;
     }
-    else if (rentaAnual >= 35000 & rentaAnual < 60000)
+    else if (AnnualRent >= 35000 & AnnualRent < 60000)
     {
-        porcentaje = .30;
+        Tax = .30;
     }
-    else if (rentaAnual >= 60000 )
+    else if (AnnualRent >= 60000 )
     {
-        porcentaje = .45;
+        Tax = .45;
     }
     
     // visualizar los resultados 
-    cout << "el porcentaje anual es : " << (porcentaje*100) << "%" << endl;
-    cout << "el interes anual es : " << (rentaAnual*porcentaje) << endl;
+    cout << "your Annual Tax is : " << (Tax*100) << "%" << endl;
+    cout << "your AnnualRent with Tax is : " << (AnnualRent*Tax) << endl;
 
     return 0;
 }
