@@ -29,16 +29,16 @@ using namespace std;
 //Función principal de tipo entero
 int main(){
     
-    //Declarar las variables.
+    //declare variables
     float Tax;
     float AnnualRent;
    
-    // ingreso de variable renta 
+    // introduce the rent account 
     cout << " What is your AnnualRent: " << endl;
     cin >> AnnualRent;
     
 
-    // Razona las variables renta para obtener el porcentaje 
+    // the variables are validated by the functions 
     if (AnnualRent < 10000)
     {
         Tax =.05;
@@ -60,7 +60,7 @@ int main(){
         Tax = .45;
     }
     
-    // visualizar los resultados 
+      // you can see the results in this part 
     cout << "your Annual Tax is : " << (Tax*100) << "%" << endl;
     cout << "your AnnualRent with Tax is : " << (AnnualRent*Tax) << endl;
 
