@@ -30,7 +30,8 @@ int main(){
     {
         cout << "You have to pay $5 dollars " <<endl;
     }
-    else{
+    else
+    {
         cout << "You have to pay $10 dollars " <<endl;
     }               
 
