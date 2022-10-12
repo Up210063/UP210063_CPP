@@ -1,38 +1,51 @@
 /*  CABECERA DE PROGRAMA
-Date: 05/10/2022
+Date: 12/10/2022
 Author:UP210063 J* A* C* M*
-Description: Juegos 
+Description: tablas
 Email: up210063@alumnos.upa.edu.mx
 Last modification: ##
 
-Ejercicio 7.
 Realice un programa que realice la conversión de decimal a binario, solo para números
 enteros mayores a 0. El resultado puede ser mostrado mediante una variable entera o en un
 conjunto de caracteres.
-
 */
-
+// Library for input and output management.
 #include <iostream>
+
+// Use of namespace to avoid std::
 using namespace std;
 
-int main(){
-    int resultado;
-    int num;
+int main()
+{
+    // Declare the variables.
+    int contador = 1;
+    int numero = 0;
+    string resultado;
+    // Ask the number
+    cout << "Enter the number: ";
+    cin >> numero;
 
-    
-    while (num != 0)
+    if (numero > 0)
     {
-        if (num%2 == 0)
+        // Cycle to divide the number by 3 and print the ramainder.
+        while (numero != 0)
         {
-            resultado = "0" + resultado;
+            // resultado=to_string(numero%2)+resultado;
+            resultado = (numero % 2 == 0) ? "0" + resultado : "1" + resultado;
+            numero /= 2;
         }
-        else 
-        {
-            resultado = "1" + resultado;
-
-        }
+        // Print the binary number
+        cout << "The number in binary is " << resultado << endl;
     }
-    
-    cout << resultado;
+    else if (numero == 0)
+    {
+        // Print the binary number.
+        cout << "The number in binary is 0. \n";
+    }
+    else
+    {
+        // Print the error message.
+        cout << "Only accept numbers greater then or equal to 0. \n";
+    }
     return 0;
 }
