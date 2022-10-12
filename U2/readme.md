@@ -134,5 +134,5 @@
 <img src="../imagenes/renta3.png" align="center" height="150" width="400"/>
 
 ### D) Rent >= $60,000
-<img src="../imagenes/ejecutablerenta2.png" align="center" height="150" width="400"/>
+<img src="../imagenes/renta4.png" align="center" height="150" width="400"/>
 <div>
