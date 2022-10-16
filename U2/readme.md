@@ -150,6 +150,29 @@
 <div align = "center">
 
 # Exercise 2: SCORE PERFORMANCE[](#Exercise2)
+<div>
+
+<div align= "justify">
+
+## What is the purpose of this program? well, the program was made with a simple instruction
+
+## This instruction is:
+    In a certain company, its employees are evaluated at the end of each year.
+    The points that can be obtained in the evaluation start at 0.0 and can go up, translating into better benefits. 
+    The points you can get employees can be 0.0, 0.4, 0.6 or more, but not intermediate values between the figures mentioned. Below is a table with thelevels corresponding to each score. The amount of money earned
+    on each level is $2,400 multiplied by the level score.
+
+    Level Score
+    Unacceptable 0.0
+    Acceptable 0.4
+    Merit 0.6 or more
+
+    Write a program that reads the user's score and indicates their level of performance,
+    as well as the amount of money the user will receive.
+    *Thank you very much for choosing us! We look forward to serving you again.
+
+<div>
+
 
 <div align = "center">
 
@@ -249,67 +272,105 @@
 </div>
 
 # Exercise 3: A program that asks for your age and print the cost of ticked.[](#Exercise3)
-## Input
+
+## What is the purpose of this program? well, the program was made with a simple instruction
+
+## This instruction is:
+    Write a program for a company that has game rooms for all ages and
+    you want to automatically calculate the price you should charge your customers to enter. The
+    The program must ask the user for the customer's age and display the price of the ticket. Yes
+    the client is under 4 years old can enter for free, if he is between 4 and 18 years old he must pay $5 and
+    if you are over 18, $10
+<div>
+
+
+<div align = "center">
+
+# INPUT
+<div>
+
+<div align = "justify">
+
 ```c++
-    // Ask for the age.
-    cout << "How old are you?  ";
+                        // introduce your score 
+    cout << " How old are you ? " << endl;      
     cin >> edad;
 ```
-## Process.
+<div>
+
+<div align = "center">
+
+# PROCCESS
+<div>
+
+<div align = "justify">
+
 ```c++
-    // Evaluate your age and asignate the cost of your ticked .
-    if (edad > 18)
+                // the variables are validated by the functions 
+    if ((edad == 1 || edad <4))
     {
-        precio = 10;
-    }
+        cout << "You enter free congratulations !! " << endl;
+    }   
     else if (edad >= 4 && edad < 18)
     {
-        precio = 5;
+        cout << "You have to pay $5 dollars " <<endl;
     }
-    else if (edad >= 0)
-    {
-        precio = 0;
-    }
-    else
-    {
-        cout << "Your age is invalid \n";
-        precio = 0;
-    }
+```
+<div>
 
-    // Print your cost.
-    cout << "The cost of your ticked is $" << precio << endl;
+<div align = "center" >
+
+# OUTPUT 
+<div>
+
+<div align = "justify">
+
+```c++    
+                    // you can see the results in this part 
+     else
+    {
+        cout << "You have to pay $10 dollars " <<endl;
+    }    
 ```
-## Output
-```c++
-    // Print your cost.
-    cout << "The cost of your ticked is $" << precio << endl;
-```
-## Explanation.
-1. Ask the user for your age.
-2. Check that the user enters an age within the following range.  
-2.1 If the user enters an age lower than 0, a message "Your age is invalid" will be printed.  
-2.2 If the user enters a number between 4 and 0, the ticket price is 0.  
-2.3 If the user enters an age greater than 4 and less than 18, the ticket price is 5.  
-2.4 If the user enters an age greater than 18, the ticket price is 10.
-3. Print ticket cost.   
+<div>
+
+<div align = "center">
+
+## EXPLANATION
+<div>
+
+<div align = "justify">
+
+>1. Ask the user for your age.
+>2. Check that the user enters an age within the following range.  
+>2.1 If the user enters an age lower than 0, a message "Your age is invalid" will be printed.  
+>2.2 If the user enters a number between 4 and 0, the ticket price is 0.  
+>2.3 If the user enters an age greater than 4 and less than 18, the ticket price is 5.  
+>2.4 If the user enters an age greater than 18, the ticket price is 10.
+>3. Print ticket cost.   
+
+<div>
+
+<div align = "center">
+
 ## Texts.
+<div>
+
+<div align = "justify">
+
 ### Age > 18
-<img src="../imagenes/Img_08.png" align="center" height="150" width="500"/>
+<img src="../imagenes/pay10.png" align="center" height="150" width="500"/>
 
 ### Age >= 4 and Age <=18
-<img src="../imagenes/Img_09.png" align="center" height="150" width="500"/>
+<img src="../imagenes/pay5.png" align="center" height="150" width="500"/>
 
 ### Age < 4 and Age > 0
-<img src="../imagenes/Img_10.png" align="center" height="150" width="500"/>
- 
- ### Age < 0
- <img src="../imagenes/Img_11.png" align="center" height="150" width="500"/>
+<img src="../imagenes/payfree.png" align="center" height="150" width="500"/>
+<div>
 
-<div align="center">
-<h2>
+<div align="right">
 
 [Return to index](#index)
-</h2>
 </div>
 
 # Exercise 4: Menu of a Bella Napoli pizzeria showing your type of pizza and ingredients[](#Exercise4)
