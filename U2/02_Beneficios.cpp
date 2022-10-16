@@ -27,33 +27,30 @@ así como la cantidad de dinero que recibirá el usuario.
 using namespace std;
 
 int main(){
-    double puntuacion;
-    double rendimiento;
+    double score;
+    double performance;
 
-    cout << "ingresa tu puntuacion"<< endl;
-    cin >> puntuacion;
-    rendimiento = puntuacion*2400;
+    cout << "introduce your score"<< endl;
+    cin >> score;
+    performance = score*2400;
     
 
     //evaluar funciones para puntuacion 
 
-    if (puntuacion == 0.0)
+    if (score == 0.0)
     {
-        cout << "tu rendimiento es inaceptable" << endl; 
-        
+        cout << "your performance are unacceptable" << endl; 
     }
-    else if (((puntuacion == 0.4) || (puntuacion >= 0.6)) && (puntuacion <=1))
+    else if (((score==0.4)||(score >= 0.6))&&(score <=1))
     {
-
-        if ((puntuacion >= 0.6) && (puntuacion <=1))
+        if ((score >= 0.6) && (score <=1))
     {
-        cout << "tu rendimiento es meritorio" << endl;
-          
+        cout << "your performance are meritorious" << endl;  
     } else{
-        cout << "tu rendimiento es aceptable" << endl;
+        cout << "your performance are acceptable" << endl;
         
     }
     }
-    cout << "tu rendimiento es de " << rendimiento; 
+    cout << "your performance (money) is to  " << performance; 
     return 0;
 }
