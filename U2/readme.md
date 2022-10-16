@@ -103,20 +103,16 @@
 <div align = "justify ">
 
 >1. Ask the user for his annual rent.
-
 >2. Check that the user entered a valid rent.   
 >2.1 If the user does not enter a valid rent, print a message that the  user entered an incorrect number.  
 >2.2 If the user entered a valid rent, continue with the program.
-
 >3.  Check by several if's which tax rate.  
 >3.1 If the rent is less than $10, 000 it is 5% (.05).  
 >3.2 If the rent is greater than or equal to $10,000 and less than $20,000 it is 15% (.15).  
 >3.3 If the rent is greater or equal to $20,000 and less than $35,000, it is 20% (.20).   
 >3.4 If the rent is greater or equal to $35,000 and less than $60,000 it is 30% (.30).  
 >3.5 If the rent is greater than $60,000 it is 45% (.45). 
-
 >4. Multiply the rent by the tax rate.
-
 >5. Print the tax rate and its equivalent in dollars. 
 
 <div>
