@@ -370,98 +370,153 @@
 </div>
 
 # Exercise 4: Menu of a Bella Napoli pizzeria showing your type of pizza and ingredients[](#Exercise4)
-## Input
+
+## What is the purpose of this program? well, the program was made with a simple instruction
+
+## This instruction is:
+    The Bella Napoli pizzeria offers vegetarian and non-vegetarian pizzas to its customers. The
+    Ingredients for each type of pizza are listed below.
+
+     Vegetarian ingredients: Pepper and tofu.
+     Non-vegetarian ingredients: Pepperoni, Ham and Salmon.
+
+    Write a program that asks the user if he wants a vegetarian pizza or not, and in
+    Based on your answer, show you a menu with the ingredients available for you to choose from.
+    You can only choose one ingredient besides the mozzarella and the tomato that are in all the
+    pizza.
+    At the end it should be shown on the screen if the chosen pizza is vegetarian or not and all the
+    ingredients it carries
+<div>
+
+
+<div align = "center">
+
+# INPUT
+<div>
+
+<div align = "justify">
+
 ```c++
-    //Print and ask the type of pizzas.
-    cout << "Welcome to Bella Napoli. \n";
-    cout << "What type of pizza do you prefer ? \n";
-    cout << "1.-Vegetarian pizza. \n";
-    cout << "2.-No vegetarian pizza. \n";
-    cin >> tipo;
+                        // introduce your score 
+    cout << "Welcome to Pizzas Bella Napoli" << endl << "What pizza do  you like? Vegetarian or Not vegetarian" << endl;
+    cout << "if you choose the vegetarian pizza enter number 1" << endl << "if you choose the not vegetarian pizza enter number 2" << endl;
+    cin >> type;
 ```
-## Select your type of pizza and ingredients
+<div>
+
+<div align = "center">
+
+# PROCCESS
+<div>
+
+<div align = "justify">
+
 ```c++
-    if (tipo == 1)
+                // the variables are validated by the functions 
+     if (type == 1)
     {
-        //Save your type in a string
-        tipo_1 = "vegetarian";
-        //Print the menu and ask for your vegetarian ingredient. 
+        type_1 = "vegetarian";
+        cout << "All include mozarella and tomato."<< endl;
         cout << "The ingredients are: \n";
         cout << "1.-Pepper. \n";
         cout << "2.-Tofu. \n";
-        cout << "All include mozarella and tomato.";
-        cin >> ingrediente_vegetariano;
+        cout << "choose the number do you like in your pizza" << endl;
+        cin >> vegetarian_ingredient;
 
-        //Save your ingredient in a string
-        if (ingrediente_vegetariano == 1)
+        //choose ingredient pepper
+
+        if (vegetarian_ingredient == 1)
         {
-            ingre = "Pepper";
-        }
-        else if (ingrediente_vegetariano == 2)
+            ingredient_extra = "pepper";
+        }   
+        //choose tofu
+        else if (vegetarian_ingredient == 2)
         {
-            ingre = "Tofu";
+            ingredient_extra = "tofu";
         }
-        else
-        {
-            cout << "Your ingredient does not exit";
-        }
-    }
-    else if (tipo == 2)
+   }
+    else if (type == 2)
     {
-        //Save your type in a string
-        tipo_1 = "no vegetarian";
-
-        //Print the menu and ask for your no vegetarian ingredient. 
+        type_2="no vegetarian";
+        cout << "All include mozarella and tomato."<< endl;
         cout << "The ingredients are: \n";
         cout << "1.-Pepperoni. \n";
-        cout << "2.-Ham \n";
-        cout << "3.-Salmon \n";
-        cout << "All include mozarella and tomato \n";
-        cin >> ingrediente_no_vegetariano;
+        cout << "2.-Ham. \n";
+        cout << "3.- Salmon. \n";           
+        cout << "choose the number do you like in your pizza" << endl;
+        cin >> novegetarian_ingredient;
 
-        //Save your ingredient in a string
-        if (ingrediente_no_vegetariano == 1)
+        //choose ingredient pepperoni
+
+        if (novegetarian_ingredient == 1)
         {
-            ingre = "Pepperoni";
-        }
-        else if (ingrediente_no_vegetariano == 2)
+            ingredient_extra = "pepperoni";
+        }   
+        //choose ingredient ham
+        else if (novegetarian_ingredient == 2)
         {
-            ingre = "Ham";
+            ingredient_extra = "ham";
         }
-        else if (ingrediente_no_vegetariano == 3)
+        //choose ingredient salmon
+        else if (novegetarian_ingredient == 3)
         {
-            ingre = "Salmon";
+            ingredient_extra = "salmon";
         }
+   }
+    else
+    {
+        cout << "your type of pizza dont exist" << endl;
+    }
+```
+<div>
+
+<div align = "center" >
+
+# OUTPUT 
+<div>
+
+<div align = "justify">
+
+```c++    
+                    // you can see the results in this part 
+     if (type == 1 )
+    {   
+        cout << "Your type of pizza is " << type_1 << endl;
+        cout << "Your ingredients of pizza are " << ingredient_extra << ", mozarella and tomato. \n";
     }
     else
     {
-        cout << "That type of pizza doesn't exit \n";
-    } 
+        cout << "Your type of pizza is " << type_2 << endl;
+        cout << "Your ingredients of pizza are " << ingredient_extra << ", mozarella and tomato. \n";
+    }  
+```
+<div>
 
-    //Print the type and ingredient.
-    if (tipo==1 || tipo==2){   
-        cout << "Your type of pizza is " << tipo_1 << endl;
-        cout << "Your ingredients of pizza are " << ingre << ", mozarella and tomato. \n";
-    }
-```
-## Output
-```c++
-    //Print the type and ingredient.
-    if (tipo==1 || tipo==2){   
-        cout << "Your type of pizza is " << tipo_1 << endl;
-        cout << "Your ingredients of pizza are " << ingre << ", mozarella and tomato. \n";
-    }
-```
-## Explanation.
-1. Ask the user what type of pizza he/she prefers:  
+<div align = "center">
+
+## EXPLANATION
+<div>
+
+<div align ="justify">
+
+>1. Ask the user what type of pizza he/she prefers:  
 1.1 If any number but 1 or 2 is selected it prints "That type of pizza doesn't exit".   
 1.2 If he selects 1 he enters the vegetarian ingredients menu.  
 1.3 If he selects 2 he enters the no vegetarian ingredients menu. 
-2. Display the menu depending on your type of pizza.
-3. Ask what ingredients you want on your pizza.
-4. Save the ingredients in a string.
-5. Show your type of pizza (vegetarian or non-vegetarian) and the ingredients.
+>2. Display the menu depending on your type of pizza.
+>3. Ask what ingredients you want on your pizza.
+>4. Save the ingredients in a string.
+>5. Show your type of pizza (vegetarian or non-vegetarian) and the ingredients.
+
+<div>
+
+<div align = "center">
+
 ## Texts.
+<div>
+
+<div align= "justify">
+
 ### Type:Vegetarian Ingredient: Pepper
  <img src="../imagenes/Img_12.png" align="center" height="300" width="500"/>
 
@@ -477,11 +532,13 @@
 ### Type:No Vegetarian Ingredient: Salmon
  <img src="../imagenes/Img_16.png" align="center" height="300" width="500"/>
 
-<div align="center">
-<h2>
+ <div>
+
+<div align="right">
+
 
 [Return to index](#index)
-</h2>
+
 </div>
 
 # Exercise 5 Ask the user 6 temperature and print the mean, highest and lowest temperature.[](#Exercise5)
