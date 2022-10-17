@@ -15,31 +15,31 @@ baja y la mas alta
 using namespace std;
 
 int main(){
-    float temperatura;
-    int contador = 1;
+    float temperature;
+    int contator = 1;
     float tempeAcum = 0;
-    int temperatura_min = 9999, temperatura_max = -9999;
+    int temperature_min = 9999, temperature_max = -9999;
 
     do
     {
         cout << "give me the temperature" << endl;
-        cin >> temperatura;
-        tempeAcum +=temperatura;
+        cin >> temperature;
+        tempeAcum +=temperature;
 
-        contador ++;
-        if (temperatura <= temperatura_min)
+        contator ++;
+        if (temperature <= temperature_min)
         {
-            temperatura_min=temperatura;
+            temperature_min=temperature;
         }
-        if (temperatura >= temperatura_max)
+        if (temperature >= temperature_max)
         {
-            temperatura_max=temperatura;
+            temperature_max=temperature;
         }
-    } while (contador <=6);
+    } while (contator <=6);
     
     cout << "the average of temperature today is : " << tempeAcum/6 <<endl;
-    cout << "la temperatura minima es " << temperatura_min<< endl;
-    cout << "la temperatura maxima  es " << temperatura_max << endl;
+    cout << "the temperature min is " << temperature_min<< endl;
+    cout << "the temperature max is " << temperature_max << endl;
 
 
     return 0;

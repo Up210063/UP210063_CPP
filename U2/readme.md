@@ -100,7 +100,7 @@
 ## EXPLANATION
 <div>
 
-<div align = "justify ">
+<div align = "justify">
 
 >1. Ask the user for his annual rent.
 >2. Check that the user entered a valid rent.   
@@ -518,19 +518,19 @@
 <div align= "justify">
 
 ### Type:Vegetarian Ingredient: Pepper
- <img src="../imagenes/Img_12.png" align="center" height="300" width="500"/>
+ <img src="../imagenes/veg_pepper.png" align="center" height="200" width="600"/>
 
 ### Type:Vegetarian Ingredient: Tofu
- <img src="../imagenes/Img_13.png" align="center" height="300" width="500"/>
+ <img src="../imagenes/veg_tofu.png" align="center" height="200" width="600"/>
 
-### Type:Vegetarian Ingredient: Pepperoni
- <img src="../imagenes/Img_14.png" align="center" height="300" width="500"/>
+### Type:No Vegetarian Ingredient: Pepperoni
+ <img src="../imagenes/noveg_peperoni.png" align="center" height="200" width="600"/>
 
 ### Type:No Vegetarian Ingredient: Ham
- <img src="../imagenes/Img_15.png" align="center" height="300" width="500"/>
+ <img src="../imagenes/noveg_ham.png" align="center" height="200" width="600"/>
 
 ### Type:No Vegetarian Ingredient: Salmon
- <img src="../imagenes/Img_16.png" align="center" height="300" width="500"/>
+ <img src="../imagenes/noveg_salmon.png" align="center" height="200" width="600"/>
 
  <div>
 
@@ -542,54 +542,86 @@
 </div>
 
 # Exercise 5 Ask the user 6 temperature and print the mean, highest and lowest temperature.[](#Exercise5)
- ## Input
+
+<div align = "center">
+
+# INPUT
+<div>
+
+<div align = "justify">
+
 ```c++
-    cout << "Give me the temperature: ";
-    cin >> temperatura;
-```
- ## Process
- ```c++
- while (contador <= 5)
+                        // introduce your score 
+    do
     {
-        cout << "Give me the temperature: ";
-        cin >> temperatura;
-        //Save the sum of temperatures
-        tempAcum += temperatura;
+        cout << "give me the temperature" << endl;
+        cin >> temperature;
+        tempeAcum +=temperature;
 
-        //Find and save the highest temperature.
-        if (temperatura > tempmayor)
-        {
-            tempmayor = temperatura;
-        }
-
-        //Find and save the lowest temperature.
-        if (temperatura < tempmenor)
-        {
-            tempmenor = temperatura;
-        }
-        contador++;
-    }
+        contator ++;
 ```
- ## Output
+<div>
+
+<div align = "center">
+
+# PROCCESS
+<div>
+
+<div align = "justify">
+
 ```c++
-    // Print the mean, highest and lower temperature.
-    cout << "The mean is: " << (tempAcum / 6) << endl;
-    cout << "The highest temperature is " << tempmayor << endl;
-    cout << "The lowest temperature is " << tempmenor << endl;
+                // the variables are validated by the functions 
+     if (temperature <= temperature_min)
+        {
+            temperature_min=temperature;
+        }
+        if (temperature >= temperature_max)
+        {
+            temperature_max=temperature;
+        }
+    } while (contator <=6);
 ```
-## Explanation.
-1. Ask the user 6 temperature.
-2. If temparures is higher than the previous one, it save it.
-3. If temparures is lower than the previous one, it save it.
-4. Print the mean, highest and lower temperature.
-## Texts.
-<img src="../imagenes/Img_18.png" align="center" height="300" width="500"/>
+<div>
+
+<div align = "center" >
+
+# OUTPUT 
+<div>
+
+<div align = "justify">
+
+```c++    
+                    // you can see the results in this part 
+    cout << "the average of temperature today is : " << tempeAcum/6 <<endl;
+    cout << "the temperature min is " << temperature_min<< endl;
+    cout << "the temperature max is " << temperature_max << endl;
+```
+<div>
+
+<div align = "center">
+
+## EXPLANATION
+<div>
+
+<div align="justify">
+
+>1. Ask the user 6 temperature.
+>2. If temparures is higher than the previous one, it save it.
+>3. If temparures is lower than the previous one, it save it.
+>4. Print the mean, highest and lower temperature.
+<div>
 
 <div align="center">
-<h2>
+
+## Texts.
+<div>
+
+
+<img src="../imagenes/temp.png" align="center" height="100" width="500"/>
+
+<div align="right">
 
 [Return to index](#index)
-</h2>
 </div>
 
 # Exercise 6: Ask the user indefinitely the amount and price of the products, finally print the total price.
