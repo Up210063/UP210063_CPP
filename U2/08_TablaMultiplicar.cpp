@@ -29,10 +29,10 @@ int main(){
     int numero2;
     
     // introduce the nunmbers 
-    cout << "introduce el numero que quieres multiplicar" << endl;
+    cout << "enter the number you want to multiply" << endl;
     cin >> numero1;
 
-    cout << "introduce el numero de veces que deseas multiplicarlo" << endl;
+    cout << "enter the number of times you want to multiply it" << endl;
     cin >> numero2;
 
 

@@ -625,110 +625,194 @@
 </div>
 
 # Exercise 6: Ask the user indefinitely the amount and price of the products, finally print the total price.
- ## Input
+
+<div align = "center">
+
+# INPUT
+<div>
+
+<div align = "justify">
+
 ```c++
-    cout << "Enter the amount of products: ";
-    cin >> amount;
-```
- ## Process
-```c++
-    // Cycle to ask and save the price and amount of the products
-     do
+                        // introduce your score 
+    do
     {
-        cout << "Enter the amount of products: ";
+        cout << "introduce your amount of products" << endl ;
         cin >> amount;
-        if (amount != 0 and amount > 0)
-        {
-            cout << "Enter the price of products: ";
-            cin >> price;
-            if (price < 0){
-                break;
-            }
-            totalprice += (price * amount);
-        }
-    } while (amount != 0 and amount > 0);
 ```
- ## Output
+<div>
+
+<div align = "center">
+
+# PROCCESS
+<div>
+
+<div align = "justify">
+
 ```c++
-    // Print the total price.
-    cout << "The total price is $" << totalprice << endl;
+                // the variables are validated by the functions 
+     if (amount !=0 & amount >0)
+        {
+            cout << "introduce the price of products" << endl;
+            cin >> price;
+
+        }
+        else {
+            cout << "tu amount dont exist" << endl;
+
+        }
+            
+
+        amount_total += price*amount;
+
+
+    } while (amount !=0);
 ```
-## Explanation.
-1. Ask the user the amount. 
-2. Ask the user the price.
-3. If the user enter 0 in amount, exit the cycle.
-4. Print the total price of all products.
+<div>
 
-## Texts.
-<img src="../imagenes/Img_19.png" align="center" height="300" width="500"/>  
+<div align = "center" >
 
-<img src="../imagenes/Img_20.png" align="center" height="150" width="400"/>
+# OUTPUT 
+<div>
+
+<div align = "justify">
+
+```c++    
+                    // you can see the results in this part 
+        cout << "your amount total to pay is  : " << amount_total;
+```
+<div>
 
 <div align="center">
-<h2>
+
+## EXPLANATION
+<div>
+
+<div align="justify">
+
+>1. Ask the user the amount. 
+>2. Ask the user the price.
+>3. If the user enter 0 in amount, exit the cycle.
+>4. Print the total price of all products.
+<div>
+
+<div align="center">
+
+## Texts.
+<div>
+
+<img src="../imagenes/amount.png" align="center" height="200" width="500"/>  
+
+
+<div align="right">
 
 [Return to index](#index)
-</h2>
 </div>
 
 # Exercise 7: Decimal to Binary
- ## Input
- ```c++
-    // Ask the number
-    cout << "Enter the number: ";
-    cin >> numero;    
-```
-## Process
- ```c++
-    // Cycle to divide the number by 2 and print the ramainder.
-    while (numero != 0)
-    {
-        // resultado=to_string(numero%2)+resultado;
-        resultado = (numero % 2 == 0) ? "0" + resultado : "1" + resultado;
-        numero /= 2;
-    }
-    // Print the binary number
-    cout << "The number in binary is " << resultado << endl;  
-```
-## Output
+<div align = "center">
+
+# INPUT
+<div>
+
+<div align = "justify">
+
 ```c++
-    // if (numero >= 0) Print the binary number
+                        // introduce your score 
+    // Ask the number
+   cout << "Enter the number: ";
+   cin >> numero;    
+```
+<div>
+
+<div align = "center">
+
+# PROCCESS
+<div>
+
+<div align = "justify">
+
+```c++
+                // the variables are validated by the functions 
+      // Cycle to divide the number by 2 and print the ramainder.
+   while (numero != 0)
+   {
+       // resultado=to_string(numero%2)+resultado;
+       resultado = (numero % 2 == 0) ? "0" + resultado : "1" + resultado;
+       numero /= 2;
+   }
+   // Print the binary number
+   cout << "The number in binary is " << resultado << endl;  
+```
+<div>
+
+<div align = "center" >
+
+# OUTPUT 
+<div>
+
+<div align = "justify">
+
+```c++    
+                    // you can see the results in this part 
+         // if (numero >= 0) Print the binary number
     cout << "The number in binary is " << resultado << endl;
     // if (numero < 0 ) Print the error message.
     cout << "Only accept numbers greater then or equal to 0. \n";
 ```
-## Explanation.
-1. Ask the number.
-2. If the number greater than or equal 0.  
-   2.1. Enter a cycle to divide the number by 2 and print the ramainer.
-3. If the number less than 0.  
-   3.1. Print the error message.
-## Texts.
-### Number >= 0
-<img src="../imagenes/Img_21.png" align="center" height="100" width="600"/>
-
-### Number < 0
-<img src="../imagenes/Img_22.png" align="center" height="100" width="600"/>
+<div>
 
 <div align="center">
-<h2>
+
+## EXPLANATION
+<div>
+
+>1. Ask the number.
+>2. If the number greater than or equal 0.  
+>2.1 Enter a cycle to divide the number by 2 and print the ramainer.
+>3. If the number less than 0.  
+>3.1 Print the error message.
+
+<div align = "center">
+
+## Texts.
+<div>
+
+### Number >= 0
+<img src="../imagenes/4.png" align="center" height="100" width="600"/>
+
+### Number < 0
+<img src="../imagenes/-2.png" align="center" height="100" width="600"/>
+
+<div align="center">
 
 [Return to index](#index)
-</h2>
 </div>
 
 # Exercise 8: Multiplication tables
- ## Input
+
+<div align = "center"> 
+
+# INPUT
+ <div>
+
+ <div align = "justify">
+
  ```c++
     // Ask the user for the number
-    cout << "Enter the number: ";
-    cin >> numero;
+   cout << "enter the number you want to multiply" << endl;
+    cin >> numero1;
 
-    // Ask the user for the limit
-    cout << "Enter the limit: ";
-    cin >> limite;   
+    cout << "enter the number of times you want to multiply it" << endl;
+    cin >> numero2;
 ```
-## Process
+ <div align = "center">
+
+# PROCCESS
+<div>
+
+ <div align = "justify">
+
  ```c++
     if (numero < 0)
     {
@@ -781,7 +865,15 @@
         }
     } 
 ```
-## Output
+<div>
+
+ <div align = "center">
+
+# OUTPUT
+<div>
+
+ <div align = "justify">
+
 ```c++
     if (i == 0)
     {
@@ -801,16 +893,30 @@
     }
     cout << "\n";
 ```
-## Explanation.
-1. Ask the user for the number. 
-2. Ask the user for the limit
-3. Print the  multiplication table up to the limit number entered.
+<div>
+
+ <div align = "center">
+
+## EXPLANATION
+<div>
+
+ <div align = "justify">
+
+>1. Ask the user for the number. 
+>2. Ask the user for the limit
+>3. Print the  multiplication table up to the limit number entered.
+<div>
+
+<div align = "center">
+
 ## Texts.
+<div>
+
 ### Positive number and positive limit
-<img src="../imagenes/Img_23.png" align="center" height="500" width="600"/>
+<img src="../imagenes/positivetab.png" align="center" height="300" width="600"/>
   
 ### Negative number and negative number
-<img src="../imagenes/Img_24.png" align="center" height="500" width="600"/>
+<img src="../imagenes/-1.png" align="center" height="500" width="600"/>
 
 <div align="center">
 <h2>
