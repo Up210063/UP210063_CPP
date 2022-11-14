@@ -40,16 +40,16 @@ int main()
     bool gameover = false;
     int jugada;
     bool casillaOcupada = true;
-    int modo;
-    // selecciòn de modos de juego 
-    cout << "Tic tac toe \n";
+    int gamemode;
+    // selecciòn de gamemode de juego 
+    cout << "\t \t \t \t \t Tic tac toe \n";
     cout << "1.- SinglePlayer \n";
-    cout << "2.- MultiPlayer \n";
-    cout << "Choose the number to select the game mode you want to play ? \n";
-    cin >> modo;
+    cout << "2.- MultiPlayer \n" << endl;
+    cout << "Choose the number to select the game mode you want to play : \n";
+    cin >> gamemode;
 
     // si el usuario selecciona jugar el solo hacer lo siguiente :
-    if (modo == 1){
+    if (gamemode == 1){
         do
         {
             system("clear");
@@ -76,12 +76,12 @@ int main()
         system("clear");
         hacertablero();
     }
-    // si el usuario selecciona jugar con otra persona (Modo local) hacer lo siguiente :
-    else if (modo == 2)
+    // si el usuario selecciona jugar con otra persona (gamemode local) hacer lo siguiente :
+    else if (gamemode == 2)
     {
         do
         {
-            // elimina los mensajes anteriores de seleccion de modo de juego 
+            // elimina los mensajes anteriores de seleccion de gamemode de juego 
             system("clear");
             do
             {
@@ -104,7 +104,8 @@ int main()
     // mostrar si gana el jugador 1 o jugador 2 
     if (gameover == true)
     {
-        if ((turnojugador - 1) % 2 == 0)
+    /*
+    if ((turnojugador - 1) % 2 == 0)
         {
             cout << "Player 2 is the winner " << endl;
         }
@@ -116,7 +117,15 @@ int main()
     else
     {
         cout << "Tie" << endl;
+
+    {
+    */
+  
+    ((turnojugador - 1) % 2 == 0) ? cout << "Player 2 is the winner thanks for playing tic tac toe" ""<< endl
+        :cout << "Player 1 is the winner thanks for playing tic tac toe" << endl;
     }
+
+
     return 0;
 }
 
@@ -226,6 +235,7 @@ bool comprobarjugada(int jugada)
 void colocarjugada(int jugada)
 {
     char valorJugada;
+    /*
     if (turnojugador % 2 == 0)
     {
         valorJugada = 'X';
@@ -234,6 +244,11 @@ void colocarjugada(int jugada)
     {
         valorJugada = 'O';
     }
+    */
+    ((turnojugador % 2 == 0))? valorJugada = 'X'
+        :valorJugada = 'O';
+
+
     int fila = 0, columna = 0;
     for (int num_jugada = 1; num_jugada < 10; num_jugada++)
     {
