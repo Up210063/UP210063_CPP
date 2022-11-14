@@ -44,8 +44,9 @@ int main()
     // selecciòn de gamemode de juego 
     cout << "\t \t \t \t \t Tic tac toe \n";
     cout << "1.- SinglePlayer \n";
-    cout << "2.- MultiPlayer \n" << endl;
-    cout << "Choose the number to select the game mode you want to play : \n";
+    cout << "2.- Local Mode \n" << endl;
+    cout << "NOTE: For play Local Mode you need other person \n";
+    cout << "Choose the number to select the game mode you want to play :" ;
     cin >> gamemode;
 
     // si el usuario selecciona jugar el solo hacer lo siguiente :
