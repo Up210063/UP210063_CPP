@@ -156,10 +156,8 @@ void hacertablero()
     {
         for (int col1 = 0; col1 < 11; col1++)
         {
-            ((estructuragato[row1][col1] == 'X'))? cout << "\033[0;36m" << estructuragato[row1][col1] << "\033[0m" 
-                :((estructuragato[row1][col1] == 'O')) ? cout << "\033[0;31m" << estructuragato[row1][col1] << "\033[0m"
-                    : cout << estructuragato[row1][col1];
-                    /*
+            /*
+            EStructura original 
             if (estructuragato[row1][col1] == 'X')
             {
                 cout << "\033[0;36m" << estructuragato[row1][col1] << "\033[0m";
@@ -172,7 +170,12 @@ void hacertablero()
             {
                 cout << estructuragato[row1][col1];
             }
-                    */
+            */
+
+           // estructura simplificada 
+            ((estructuragato[row1][col1] == 'X'))? cout << "\033[0;36m" << estructuragato[row1][col1] << "\033[0m" 
+                :((estructuragato[row1][col1] == 'O')) ? cout << "\033[0;31m" << estructuragato[row1][col1] << "\033[0m"
+                    : cout << estructuragato[row1][col1];
         }
         cout << endl;
     }
