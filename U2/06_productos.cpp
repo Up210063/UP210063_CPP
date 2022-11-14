@@ -4,8 +4,6 @@ Author:UP210063 J* A* C* M*
 Description: Temperaturas 
 Email: up210063@alumnos.upa.edu.mx
 Last modification: ##
-
-
 Ejercicio 6.
 Realizar un programa que lea indefinidamente cantidades de productos y su price, y al final
 indique el total de la factura. Para saber que se ha terminado con la compra, se deberá
