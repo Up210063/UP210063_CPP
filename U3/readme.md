@@ -2,8 +2,17 @@
 <div align = center>
 
 # TIC_TAC_TOE
+
+    What part of readme do you like to watch? 
 <div>
 
+<div align = center>
+
+[INTRODUCTION](#what-is-the-purpose-for-this-project)
+
+[END_OF_README](#conclusion)
+
+<div>
 
 
 <div align = center>
@@ -29,5 +38,19 @@
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+<div align = center>
+
+## END_OF_README
+<div>
+
+<div align = "justify">
+    
+## CONCLUSION
+    lorem aoshdfk ja
+<div>
+
+[BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
 
 
