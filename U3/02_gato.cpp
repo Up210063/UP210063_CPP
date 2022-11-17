@@ -106,7 +106,7 @@ int main(){
     }
     else
     {
-        cout << "Gamer over";
+        cout << "Game over";
     }
 
     if (gameover == true)
@@ -119,7 +119,7 @@ int main(){
         {
             if (gamemode == 1)
             {
-                cout << "PC is the winner congratulations ";
+                cout << "PC is the winner. You can make better continue practicing";
             }
             else
             {
@@ -197,7 +197,7 @@ int seleccionarJugada()
     int jugada1;
     do
     {
-        cout << "Give  me your move: ";
+        cout << "Choose one section with the board (put the number) ";
         cin >> jugada1;
     } while (jugada1 > 9 && jugada1 < 0);
     return jugada1;
