@@ -50,7 +50,9 @@ int main()
     cin >> gamemode;
 
     // si el usuario selecciona jugar el solo hacer lo siguiente :
-    if (gamemode == 1){
+
+    switch (gamemode){
+    case 1:
         do
         {
             system("clear");
@@ -76,10 +78,8 @@ int main()
         } while (gameover == false and turnojugador < 10);
         system("clear");
         hacertablero();
-    }
-    // si el usuario selecciona jugar con otra persona (gamemode local) hacer lo siguiente :
-    else if (gamemode == 2)
-    {
+        break;
+    case 2:
         do
         {
             // elimina los mensajes anteriores de seleccion de gamemode de juego 
@@ -101,7 +101,12 @@ int main()
         } while (gameover == false and turnojugador < 10);
         system("clear");
         hacertablero();
+        
+        break;
+    default:
+        break;
     }
+   
     // mostrar si gana el jugador 1 o jugador 2 
     if (gameover == true)
     {
@@ -125,8 +130,6 @@ int main()
     ((turnojugador - 1) % 2 == 0) ? cout << "Player 2 is the winner thanks for playing tic tac toe" ""<< endl
         :cout << "Player 1 is the winner thanks for playing tic tac toe" << endl;
     }
-
-
     return 0;
 }
 
@@ -166,6 +169,11 @@ void hacertablero()
     {
         for (int col1 = 0; col1 < 11; col1++)
         {
+
+           // estructura simplificada 
+            ((estructuragato[row1][col1] == 'X'))? cout << "\033[0;36m" << estructuragato[row1][col1] << "\033[0m" 
+                :((estructuragato[row1][col1] == 'O')) ? cout << "\033[0;31m" << estructuragato[row1][col1] << "\033[0m"
+                    : cout << estructuragato[row1][col1];
             /*
             EStructura original 
             if (estructuragato[row1][col1] == 'X')
@@ -181,11 +189,6 @@ void hacertablero()
                 cout << estructuragato[row1][col1];
             }
             */
-
-           // estructura simplificada 
-            ((estructuragato[row1][col1] == 'X'))? cout << "\033[0;36m" << estructuragato[row1][col1] << "\033[0m" 
-                :((estructuragato[row1][col1] == 'O')) ? cout << "\033[0;31m" << estructuragato[row1][col1] << "\033[0m"
-                    : cout << estructuragato[row1][col1];
         }
         cout << endl;
     }
