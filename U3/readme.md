@@ -10,6 +10,8 @@
 
 [INTRODUCTION](#what-is-the-purpose-for-this-project)
 
+[FLOWCHART](#what-is-the-porpuse-to-flowchart)
+
 [END_OF_README](#conclusion)
 
 <div>
@@ -38,6 +40,32 @@
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+<div align = center>
+
+## FLOWCHART
+<div>
+
+<div align = "justify">
+    
+## WHAT IS THE PORPUSE TO FLOWCHART
+    INTRODUCIR PROPOSITO DEL DIAGRAMA DE FLUJO -FASHDKFJHASG DFGASJGSD
+<div>
+
+[BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align = center>
 
