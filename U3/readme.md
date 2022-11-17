@@ -25,5 +25,5 @@
     In this particular case we were with a matrix 
     which would serve as our game board. In the first 
     instance, the board needed to be divided by arrangements 
-    in the form of " | " and " _ "
+    in the form of " | " and " _ " 
 <div>
