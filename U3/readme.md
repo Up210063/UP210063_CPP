@@ -1,9 +1,7 @@
 
 <div align = center>
 
-# MAIN
-
-# TIC TAC TOE
+# TIC_TAC_TOE
 <div>
 
 
@@ -30,4 +28,6 @@
     in the form of " | " and " _ " 
 <div>
 
-[BACK TO MAIN](#MAIN)
+[BACK TO MAIN](#TIC_TAC_TOE)
+
+
