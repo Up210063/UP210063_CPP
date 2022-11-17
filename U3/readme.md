@@ -1,6 +1,8 @@
 
 <div align = center>
 
+# MAIN
+
 # TIC TAC TOE
 <div>
 
@@ -27,3 +29,5 @@
     instance, the board needed to be divided by arrangements 
     in the form of " | " and " _ " 
 <div>
+
+[BACK TO MAIN](#MAIN)
