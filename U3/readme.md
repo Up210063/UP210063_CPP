@@ -10,7 +10,7 @@
 
 [INTRODUCTION](#what-is-the-purpose-for-this-project)
 
-[FLOWCHART](#what-is-the-porpuse-to-flowchart)
+[FLOWCHART](#what-is-the-purpose-to-flowchart)
 
 [END_OF_README](#conclusion)
 
@@ -48,7 +48,7 @@
 
 <div align = "justify">
     
-## WHAT IS THE PORPUSE TO FLOWCHART
+## WHAT IS THE PURPOSE TO FLOWCHART
     INTRODUCIR PROPOSITO DEL DIAGRAMA DE FLUJO -FASHDKFJHASG DFGASJGSD
 <div>
 
