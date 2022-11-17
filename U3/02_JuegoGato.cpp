@@ -25,6 +25,7 @@ int obtenerMejorJugadade(string);
 
 // Declaration of global variables.
 char estructuraGato[6][11];
+//delimitacion del area de juego para usuario y computadora
 char areaJuego[3][3] = {{'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'}};
 char areaJuegoPC[3][3];
 int turnoJugador = 1;
@@ -104,6 +105,7 @@ int main(){
         system("clear");
         hacertablero();
     }
+    // no hace nada si no se selecciona 1 o 2 
     else
     {
         cout << "Game over";
