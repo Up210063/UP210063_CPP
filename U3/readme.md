@@ -8,11 +8,11 @@
 
 <div align = center>
 
-[INTRODUCTION](#what-is-the-purpose-for-this-project)
+>1.- [INTRODUCTION](#what-is-the-purpose-for-this-project)
 
-[FLOWCHART](#what-is-the-purpose-to-flowchart)
+>2.- [FLOWCHART](#what-is-the-purpose-to-flowchart)
 
-[END_OF_README](#conclusion)
+>3.- [END_OF_README](#conclusion)
 
 <div>
 
