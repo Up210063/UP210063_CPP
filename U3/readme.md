@@ -3,7 +3,7 @@
 
 # TIC_TAC_TOE
 
-    What part of readme do you like to watch? 
+    What part of the readme would you like to see?
 <div>
 
 <div align = center>
