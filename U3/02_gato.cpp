@@ -349,7 +349,7 @@ bool ganar(string tablero)
     return ganar;
 }
 
-int obtenerJugadaPC()
+int obtenerJugadaPC();
 {
     bool casillaOcupada = false;
     int jugada;
