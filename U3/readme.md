@@ -15,10 +15,9 @@
 <div align = "justify">
     
 ## WHAT IS THE PURPOSE FOR THIS PROJECT?
-    The main purpose for this project was 
-    to be able to improve our ability to 
-    develop code in the c++ language using 
-    function prototyping to be able to use 
+    The main purpose for this project was to be able to 
+    improve our ability to develop code in the c++ 
+    language using function prototyping to be able to use 
     them in other functions within this same code.
 
     The c++ language is very extensive and thanks 
