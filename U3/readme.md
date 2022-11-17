@@ -28,6 +28,6 @@
     in the form of " | " and " _ " 
 <div>
 
-[BACK TO MAIN](#TIC_TAC_TOE)
+[BACK TO TIC TAC TOE](#TIC_TAC_TOE)
 
 
