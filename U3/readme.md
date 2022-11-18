@@ -35,20 +35,15 @@ ___________________
 <div align = "justify">
     
 ## WHAT IS THE PURPOSE FOR THIS PROJECT?
+
+
     The main purpose for this project was to be able to 
     improve our ability to develop code in the c++ 
     language using function prototyping to be able to use 
     them in other functions within this same code.
-<div>
 
-<div align =center>
-
-<img src="../imagenes/U3/codigo.png" align="center" height="90" width="100"/>    
-
-<div>
-
-<div align = "justify">
-
+<img src="../imagenes/U3/codigo.png" align="right" height="100" width="100"/> 
+    
     The c++ language is very extensive and thanks               
     to that we can do many things with this language. 
     In this particular case we were with a matrix 
