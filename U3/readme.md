@@ -12,15 +12,15 @@
 
 >2.- [FLOWCHART](#flowchart) 
 
->3.- [TIC TAC TOE](#test-tic-tac-toe)
-
 >3.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-code-execution)
 
->4.- [ADVANTAGE](#advantage)
+>4.- [TIC TAC TOE](#test-tic-tac-toe)
 
->5.- [LIMITATIONS](#limitations)
+>5.- [ADVANTAGE](#advantage)
 
->6.- [END_OF_README](#conclusion)
+>6.- [LIMITATIONS](#limitations)
+
+>7.- [END_OF_README](#conclusion)
 
 <div>
 
