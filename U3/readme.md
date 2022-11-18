@@ -12,7 +12,7 @@
 
 >2.- [FLOWCHART](#flowchart) 
 
->3.- [TIC TAC TOE](#tic_tac_toe)
+>3.- [TIC TAC TOE](#test-tic-tac-toe)
 
 >3.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-code-execution)
 
