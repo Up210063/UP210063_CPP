@@ -12,7 +12,11 @@
 
 >2.- [FLOWCHART](#what-is-the-purpose-to-flowchart)
 
->3.- [END_OF_README](#conclusion)
+>3.- [ADVANTAGE](#my-advantage-for-this-project)
+
+>4.- [LIMITATIONS](#my-limitations-for--this-project)
+
+>5.- [END_OF_README](#conclusion)
 
 <div>
 
@@ -79,6 +83,35 @@
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+<div align = center>
+
+## ADVANTAGE
+<div>
+
+<div align = "justify">
+    
+## MY ADVANTAGE FOR THIS PROJECT
+    lorem aoshdfk ja
+<div>
+
+[BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+
+
+<div align = center>
+
+## LIMITATIONS
+<div>
+
+<div align = "justify">
+    
+## MY LIMITATIONS FOR  THIS PROJECT
+    lorem aoshdfk ja
+<div>
+
+[BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
 
 
 
