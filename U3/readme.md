@@ -8,13 +8,13 @@
 
 <div align = center>
 
->1.- [INTRODUCTION](#what-is-the-purpose-for-this-project)
+>1.- [INTRODUCTION](#introduction)
 
->2.- [FLOWCHART](#what-is-the-purpose-to-flowchart)
+>2.- [FLOWCHART](#flowchart)
 
->3.- [ADVANTAGE](#my-advantage-for-this-project)
+>3.- [ADVANTAGE](#advantage)
 
->4.- [LIMITATIONS](#my-limitations-for--this-project)
+>4.- [LIMITATIONS](#limitations)
 
 >5.- [END_OF_README](#conclusion)
 
