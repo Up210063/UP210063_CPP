@@ -83,7 +83,14 @@ ___________________
 <div align = center>
 
 ## DEVELOPMENT AND EXPLANATION OF CODE EXECUTION 
+
+<div>
+
+<div align = "center">
+
 <img src="../imagenes/U3/c-.png" align="center" height="90" width="100"/>
+<div>
+
 <div>
 
 <div align = "justify">
