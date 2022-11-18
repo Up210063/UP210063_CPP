@@ -87,7 +87,65 @@ ___________________
 <div align = "justify">
     
 ## EXPLANATION OF A CODE EXECUTION 
-    INTRODUCIR EJECUCION DEL CODIGO BJASDHFKASJDHG KAJSDHG KASDHG KASDHG KS
+ 
+    HOW CAN YOU PLAY A TIC TAC TOE?
+
+<h2> WINDOWS</h2> 
+
+## STEP 1.-
+    Clone this repo with the following command in your terminal:
+    "git clone https://github.com/Up210063/UP210063_CPP.git"
+## STEP 2.-
+
+    Download and install the compiler in this link:
+    https://sourceforge.net/projects/mingw/files/OldFiles/ 
+
+## STEP 3.-
+    Open the terminal at the direction of the file with the command:
+    cd C:\Documents\...
+
+## HOW COMPILE 
+    To compile use command:
+    gcc  02_JuegoGato.cpp or 02_JuegoGato.exe
+
+## HOW RUN
+     To run type this code:
+     02_JuegoGato.exe
+
+
+<h2> Linux (Ubuntu)</h2>
+
+## STEP 1.-
+   
+    Download or clone my repo with the following command in the terminal:
+    "git clone https://github.com/Up210063/UP210063_CPP.git"
+
+## STEP 2.-
+    
+    Install GNU c/c++ compiler, open the terminal and type:
+    
+    1.-$ sudo apt-get update
+    2.-$ sudo apt-get install build-essential manpages-dev
+
+
+## HOW COMPILE 
+
+    To compile this program you shuould type the comand:
+    gcc 02_JuegoGato.c or 02_JuegoGato
+
+## HOW RUN 
+    To run this program you should type:
+    ./02_JuegoGato 
+
+## MY OPINION (NOT IMPORTANT)
+<img src="../imagenes/U3/sistema-operativo.png" align="right" height="90" width="100"/>
+
+    LINUX IS MORE SENSE TO COMPILE & EXECUTER THE PROGRAMS IN C++
+    YOU HAVE TO WATCH HOW EASY IS COMPILE & EXECUTER IN THIS SYSTEM OPERATIVE IN COMPARATION TO WINDOWS  
+
+
+
+
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
