@@ -114,7 +114,13 @@
 <div align = "justify">
     
 ## MY LIMITATIONS FOR  THIS PROJECT
-    lorem aoshdfk ja
+>1.-
+
+>2.-
+
+>3.-
+
+>4.-
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
