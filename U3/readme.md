@@ -12,11 +12,12 @@
 
 >2.- [FLOWCHART](#flowchart)
 
->3.- [ADVANTAGE](#advantage)
 
->4.- [LIMITATIONS](#limitations)
+>3.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-a-code-execution)
 
->5.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-a-code-execution)
+>4.- [ADVANTAGE](#advantage)
+
+>5.- [LIMITATIONS](#limitations)
 
 >6.- [END_OF_README](#conclusion)
 
