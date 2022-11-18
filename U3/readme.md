@@ -12,6 +12,7 @@
 
 >2.- [FLOWCHART](#flowchart) 
 
+>3.- [TIC TAC TOE](#tic_tac_toe)
 
 >3.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-code-execution)
 
@@ -168,6 +169,28 @@ ___________________
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
 
 ___________________
+
+<div align = center>
+
+## TEST TIC TAC TOE 
+
+<img src="../imagenes/U3/tic-tac-toe.png" align="center" height="90" width="100"/>
+<div>
+
+<div align = "justify">
+    
+## MAIN THING'S TO CONSIDER IN THIS CASE 
+>1.-
+
+>2.-
+
+>3.-
+
+<div>
+
+[BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+_______
 
 
 <div align = center>
