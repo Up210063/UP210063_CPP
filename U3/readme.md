@@ -10,7 +10,7 @@
 
 >1.- [INTRODUCTION](#introduction)
 
->2.- [FLOWCHART](#flowchart)
+>2.- [FLOWCHART](#flowchart) 
 
 
 >3.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-a-code-execution)
@@ -39,8 +39,17 @@ ___________________
     improve our ability to develop code in the c++ 
     language using function prototyping to be able to use 
     them in other functions within this same code.
+<div>
 
-    The c++ language is very extensive and thanks 
+<div align =center>
+
+<img src="../imagenes/U3/codigo.png" align="center" height="90" width="100"/>    
+
+<div>
+
+<div align = "justify">
+
+    The c++ language is very extensive and thanks               
     to that we can do many things with this language. 
     In this particular case we were with a matrix 
     which would serve as our game board. In the first 
@@ -54,7 +63,7 @@ ___________________
 
 _______
 
-## FLOWCHART
+## FLOWCHART <img src="../imagenes/U3/diagrama-de-flujo.png" align="center" height="100" width="140"/>
 <div>
 
 <div align = "justify">
@@ -70,7 +79,7 @@ ___________________
 
 <div align = center>
 
-## DEVELOPMENT AND EXPLANATION OF A CODE EXECUTION
+## DEVELOPMENT AND EXPLANATION OF A CODE EXECUTION <img src="../imagenes/U3/c-.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
@@ -86,7 +95,7 @@ ___________________
 
 <div align = center>
 
-## ADVANTAGE
+## ADVANTAGE <img src="../imagenes/U3/ventajas.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
@@ -108,7 +117,7 @@ ______________
 
 <div align = center>
 
-## LIMITATIONS
+## LIMITATIONS <img src="../imagenes/U3/pulgar-hacia-abajo.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
@@ -129,7 +138,7 @@ ______________
 
 <div align = center>
 
-## END_OF_README
+## END_OF_README  <img src="../imagenes/U3/lista-de-tareas.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
