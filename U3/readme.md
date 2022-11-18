@@ -69,7 +69,7 @@ _______
 
 <div align = "justify">
     
-## WHAT IS THE PURPOSE TO FLOWCHART
+-  ## WHAT IS THE PURPOSE TO FLOWCHART
 
 <img src="../imagenes/U3/DIAGRAMA_FLUJO%20.png" align="center" height="900" width="780"/>
 
