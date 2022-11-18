@@ -13,7 +13,7 @@
 >2.- [FLOWCHART](#flowchart) 
 
 
->3.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-a-code-execution)
+>3.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-code-execution)
 
 >4.- [ADVANTAGE](#advantage)
 
