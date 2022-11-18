@@ -70,7 +70,9 @@ _______
 <div align = "justify">
     
 ## WHAT IS THE PURPOSE TO FLOWCHART
-    INTRODUCIR PROPOSITO DEL DIAGRAMA DE FLUJO -FASHDKFJHASG DFGASJGSD
+
+<img src="../imagenes/U3/DIAGRAMA_FLUJO%20.png" align="center" height="900" width="780"/>
+
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
