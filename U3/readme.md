@@ -63,7 +63,8 @@ ___________________
 
 _______
 
-## FLOWCHART <img src="../imagenes/U3/diagrama-de-flujo.png" align="center" height="100" width="140"/>
+## FLOWCHART
+<img src="../imagenes/U3/diagrama-de-flujo.png" align="center" height="100" width="140"/>
 <div>
 
 <div align = "justify">
@@ -79,7 +80,8 @@ ___________________
 
 <div align = center>
 
-## DEVELOPMENT AND EXPLANATION OF A CODE EXECUTION <img src="../imagenes/U3/c-.png" align="center" height="90" width="100"/>
+## DEVELOPMENT AND EXPLANATION OF A CODE EXECUTION 
+<img src="../imagenes/U3/c-.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
@@ -95,7 +97,8 @@ ___________________
 
 <div align = center>
 
-## ADVANTAGE <img src="../imagenes/U3/ventajas.png" align="center" height="90" width="100"/>
+## ADVANTAGE 
+<img src="../imagenes/U3/ventajas.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
@@ -117,7 +120,8 @@ ______________
 
 <div align = center>
 
-## LIMITATIONS <img src="../imagenes/U3/pulgar-hacia-abajo.png" align="center" height="90" width="100"/>
+## LIMITATIONS 
+<img src="../imagenes/U3/pulgar-hacia-abajo.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
@@ -138,7 +142,8 @@ ______________
 
 <div align = center>
 
-## END_OF_README  <img src="../imagenes/U3/lista-de-tareas.png" align="center" height="90" width="100"/>
+## END_OF_README  
+<img src="../imagenes/U3/lista-de-tareas.png" align="center" height="90" width="100"/>
 <div>
 
 <div align = "justify">
