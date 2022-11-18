@@ -16,14 +16,18 @@
 
 >4.- [LIMITATIONS](#limitations)
 
->5.- [END_OF_README](#conclusion)
+>5.- [DEVELOPMENT & EXPLANATION OF A CODE EXECUTION](#development-and-explanation-of-a-code-execution)
+
+>6.- [END_OF_README](#conclusion)
 
 <div>
 
+___________________
 
 <div align = center>
 
 ## INTRODUCTION 
+
 <div>
 
 
@@ -47,6 +51,8 @@
 
 <div align = center>
 
+_______
+
 ## FLOWCHART
 <div>
 
@@ -59,30 +65,23 @@
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
 
 
-
-
-
-
-
-
-
-
-
-
-
+___________________
 
 <div align = center>
 
-## END_OF_README
+## DEVELOPMENT AND EXPLANATION OF A CODE EXECUTION
 <div>
 
 <div align = "justify">
     
-## CONCLUSION
-    lorem aoshdfk ja
+## EXPLANATION OF A CODE EXECUTION 
+    INTRODUCIR EJECUCION DEL CODIGO BJASDHFKASJDHG KAJSDHG KASDHG KASDHG KS
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+___________________
+
 
 <div align = center>
 
@@ -125,6 +124,18 @@
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
 
+<div align = center>
+
+## END_OF_README
+<div>
+
+<div align = "justify">
+    
+## CONCLUSION
+    lorem aoshdfk ja
+<div>
+
+[BACK TO TIC TAC TOE](#TIC_TAC_TOE)
 
 
 
