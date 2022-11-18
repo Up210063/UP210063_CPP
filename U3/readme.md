@@ -66,6 +66,10 @@ _______
     
 -  ## WHAT IS THE PURPOSE TO FLOWCHART
 
+        A Flow Diagram is the representation and graphic schematization of an algorithm, which graphs the steps and processes to follow to reach the solution of a problem that you want to solve.
+
+        Its correct construction is extremely important since from the same diagram the program was written in some Programming Language in this case it was c++ and the problem was the game of the cat (TIC TAC TOE)  
+        
 <img src="../imagenes/U3/DIAGRAMA_FLUJO%20.png" align="center" height="950" width="950"/>
 
 <div>
