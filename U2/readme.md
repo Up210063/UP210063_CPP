@@ -125,17 +125,17 @@
 <div align = "justify">
 
 ## A) Rent < $10,000
-<img src="../imagenes/ejecutablerenta.png" align="center" height="150" width="400"/>
+<img src="../imagenes/U2/ejecutablerenta.png" align="center" height="150" width="400"/>
 
 
 ## B) Rent >= $10,000 and Rent < $20,000 
-<img src="../imagenes/renta2.png" align="center" height="150" width="400"/>
+<img src="../imagenes/U2/renta2.png" align="center" height="150" width="400"/>
 
 ## C) Rent >= $20,000 and Rent < $35,000 
-<img src="../imagenes/renta3.png" align="center" height="150" width="400"/>
+<img src="../imagenes/U2/renta3.png" align="center" height="150" width="400"/>
 
 ## D) Rent >= $60,000
-<img src="../imagenes/renta4.png" align="center" height="150" width="400"/>
+<img src="../imagenes/U2/renta4.png" align="center" height="150" width="400"/>
 
 <div>
 
@@ -254,13 +254,13 @@
 <div align="justify">
 
 ### A) score >= 0.6
-<img src="../imagenes/score0.6.png" align="center" height="150" width="700"/>
+<img src="../imagenes/U2/score0.6.png" align="center" height="150" width="700"/>
 
 ### B) score == 0.4
-<img src="../imagenes/score0.4.png" align="center" height="150" width="700"/>
+<img src="../imagenes/U2/score0.4.png" align="center" height="150" width="700"/>
 
 ### C) score == 0
-<img src="../imagenes/score0.png" align="center" height="150" width="700"/>
+<img src="../imagenes/U2/score0.png" align="center" height="150" width="700"/>
 
 <div align="right">
 
@@ -355,13 +355,13 @@
 <div align = "justify">
 
 ### Age > 18
-<img src="../imagenes/pay10.png" align="center" height="150" width="500"/>
+<img src="../imagenes/U2/pay10.png" align="center" height="150" width="500"/>
 
 ### Age >= 4 and Age <=18
-<img src="../imagenes/pay5.png" align="center" height="150" width="500"/>
+<img src="../imagenes/U2/pay5.png" align="center" height="150" width="500"/>
 
 ### Age < 4 and Age > 0
-<img src="../imagenes/payfree.png" align="center" height="150" width="500"/>
+<img src="../imagenes/U2/payfree.png" align="center" height="150" width="500"/>
 <div>
 
 <div align="right">
@@ -518,19 +518,19 @@
 <div align= "justify">
 
 ### Type:Vegetarian Ingredient: Pepper
- <img src="../imagenes/veg_pepper.png" align="center" height="200" width="600"/>
+ <img src="../imagenes/U2/veg_pepper.png" align="center" height="200" width="600"/>
 
 ### Type:Vegetarian Ingredient: Tofu
- <img src="../imagenes/veg_tofu.png" align="center" height="200" width="600"/>
+ <img src="../imagenes/U2/veg_tofu.png" align="center" height="200" width="600"/>
 
 ### Type:No Vegetarian Ingredient: Pepperoni
- <img src="../imagenes/noveg_peperoni.png" align="center" height="200" width="600"/>
+ <img src="../imagenes/U2/noveg_peperoni.png" align="center" height="200" width="600"/>
 
 ### Type:No Vegetarian Ingredient: Ham
- <img src="../imagenes/noveg_ham.png" align="center" height="200" width="600"/>
+ <img src="../imagenes/U2/noveg_ham.png" align="center" height="200" width="600"/>
 
 ### Type:No Vegetarian Ingredient: Salmon
- <img src="../imagenes/noveg_salmon.png" align="center" height="200" width="600"/>
+ <img src="../imagenes/U2/noveg_salmon.png" align="center" height="200" width="600"/>
 
  <div>
 
@@ -617,7 +617,7 @@
 <div>
 
 
-<img src="../imagenes/temp.png" align="center" height="100" width="500"/>
+<img src="../imagenes/U2/temp.png" align="center" height="100" width="500"/>
 
 <div align="right">
 
@@ -701,7 +701,7 @@
 ## Texts.
 <div>
 
-<img src="../imagenes/amount.png" align="center" height="200" width="500"/>  
+<img src="../imagenes/U2/amount.png" align="center" height="200" width="500"/>  
 
 
 <div align="right">
@@ -779,10 +779,10 @@
 <div>
 
 ### Number >= 0
-<img src="../imagenes/4.png" align="center" height="100" width="600"/>
+<img src="../imagenes/U2/4.png" align="center" height="100" width="600"/>
 
 ### Number < 0
-<img src="../imagenes/-2.png" align="center" height="100" width="600"/>
+<img src="../imagenes/U2/-2.png" align="center" height="100" width="600"/>
 
 <div align="center">
 
@@ -913,10 +913,10 @@
 <div>
 
 ### Positive number and positive limit
-<img src="../imagenes/positivetab.png" align="center" height="300" width="600"/>
+<img src="../imagenes/U2/positivetab.png" align="center" height="300" width="600"/>
   
 ### Negative number and negative number
-<img src="../imagenes/-1.png" align="center" height="500" width="600"/>
+<img src="../imagenes/U2/-1.png" align="center" height="500" width="600"/>
 
 <div align="center">
 <h2>
@@ -990,10 +990,10 @@
 5. Print the root if there is
 ## Texts.
 ### When the root is within the established range.
-<img src="../imagenes/Img_25.png" align="center" height="500" width="1100"/>
+<img src="../imagenes/U2/Img_25.png" align="center" height="500" width="1100"/>
 
 ### When the root is not within the established range.
-<img src="../imagenes/Img_26.png" align="center" height="900" width="1100"/>
+<img src="../imagenes/U2/Img_26.png" align="center" height="900" width="1100"/>
 
 <div align="center">
 <h2>
