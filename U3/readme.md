@@ -127,6 +127,7 @@ ______________
 <div align = "justify">
     
 ## MY LIMITATIONS FOR  THIS PROJECT
+
 >1.-
 
 >2.-
@@ -150,6 +151,9 @@ ______________
     
 ## CONCLUSION
     lorem aoshdfk ja
+    
+    
+-    -  “'Si lo puedes imaginar, lo puedes programar'" -(Alejandro Miguel Taboada) 
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
