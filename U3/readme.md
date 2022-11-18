@@ -103,7 +103,7 @@ ___________________
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
 
-
+______________
 
 <div align = center>
 
@@ -123,6 +123,8 @@ ___________________
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
+
+______________
 
 <div align = center>
 
