@@ -245,13 +245,11 @@ _______
     
 ## MY ADVANTAGE FOR THIS PROJECT
 
->1.-
+>1.- improve my knowledge in C++ language
 
->2.-
+>2.- improve my use with functions so as not to clutter the main
 
->3.-
-
->4.-
+>3.-improve my writing
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
@@ -268,13 +266,12 @@ ______________
     
 ## MY LIMITATIONS FOR  THIS PROJECT
 
->1.-
+>1.- At first it was hard for me to know how to use functions
 
->2.-
+>2.- I had to support myself with my partner
 
->3.-
+>3.- I kept trying to understand the use of ternaries to simplify if and else
 
->4.-
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
