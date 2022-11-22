@@ -205,10 +205,28 @@ ___________________
 
 ## STEP 2 .- 
 
+    you have to select a number in the board to try to win the match and complete your purpose in this game
+
+<img src="../imagenes/U3/step1.png" align="center" height="250" width="900"/>
 
 ## STEP 3 .-
 
+    in this case I select the number 5 in the board and the machine selected the number 6 
+
+<img src="../imagenes/U3/step2.png" align="center" height="250" width="900"/>
+
 ## STEP 4 .-
+
+    Then I select the number 3 in the board and the machine selected the number 7
+
+<img src="../imagenes/U3/step3.png" align="center" height="250" width="900"/>
+
+
+## WINNER 
+
+    But in this case i put in the number 2 and the computer put in the 8 for complete the match i put in the number 4 but i forgot the number 9 and this is the history to how i lost to a PC machine in tic tac toe :(  
+
+<img src="../imagenes/U3/winner.png" align="center" height="190" width="900"/>
 
 <div>
 
