@@ -188,7 +188,9 @@ ___________________
 
 <div>
 
-<div align = center>
+<div align = left>
+
+---------------------
 
 ## WHO PLAY THE GAME?
 
@@ -197,9 +199,16 @@ ___________________
 <div align = justify>
 
 ## STEP 1 .-
-    Choose the GAMEMODE to play and select with number 1 or number 2 
+    Choose the GAMEMODE to play and select with number 1 (green ) or number 2 (yellow)
 
 <img src="../imagenes/U3/gamemode.png" align="center" height="350" width="900"/>
+
+## STEP 2 .- 
+
+
+## STEP 3 .-
+
+## STEP 4 .-
 
 <div>
 
