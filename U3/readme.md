@@ -180,11 +180,26 @@ ___________________
 <div align = "justify">
     
 ## MAIN THING'S TO CONSIDER IN THIS CASE 
->1.-
+>1.- Dont write numbers with  a decimal point or letters when calling for playing.
 
->2.-
+>2.- In multiplayer, player 1 is "O" and player 2 is "X".
 
->3.-
+>3.-In single player mode, the player is "O" and the PC is "X".
+
+<div>
+
+<div align = center>
+
+## WHO PLAY THE GAME?
+
+<div>
+
+<div align = justify>
+
+## STEP 1 .-
+    Choose the GAMEMODE to play and select with number 1 or number 2 
+
+<img src="../imagenes/U3/gamemode.png" align="center" height="350" width="900"/>
 
 <div>
 
