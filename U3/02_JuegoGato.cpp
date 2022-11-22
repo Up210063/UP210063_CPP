@@ -43,11 +43,11 @@ int main(){
     int gamemode;
 
     //Seleccion del gamemode a jugar si es Local Mode o Jugar con la Computadora ()
-    cout << " \t \t \t \t Welcome to Tic tac toe \n";
-    cout << "What Game-Mode do you like to play ? \n";
-    cout << "1.-  PLAY WITH COMPUTER (SINGLE MODE)\n";
-    cout << "2.- PLAY WITH OTHER PERSON (LOCAL MODE)\n";
-    cout << " GAMEMODE : " ;
+    cout << "\033[0;39m" << "\t \t \t \t Welcome to Tic tac toe \n" << "\033[0m";
+    cout << "\033[0;36m" << "What Game-Mode do you like to play ? \n" << "\033[0m";
+    cout << "\033[0;32m" << "1.-  PLAY WITH COMPUTER (SINGLE MODE)\n" << "\033[0m";
+    cout << "\033[0;33m" << "2.- PLAY WITH OTHER PERSON (LOCAL MODE)\n" << "\033[0m";
+    cout << "\033[0;31m" << " GAMEMODE : " << "\033[0m";
     cin >> gamemode;
     // Que accion va a realizar si escojemos el numero 1 (SINGLE MODE CON COMPUTADORA)
     if (gamemode == 1)
