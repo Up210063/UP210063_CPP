@@ -287,10 +287,14 @@ ______________
 <div align = "justify">
     
 ## CONCLUSION
-    lorem aoshdfk ja
-    
-    
--    -  “'Si lo puedes imaginar, lo puedes programar'" -(Alejandro Miguel Taboada) 
+
+    In conclusion, I can say that this project was a very complex challenge for me since I had never done this type of exercise, normally I thought that C++ was used to create things like programs to take averages, menus or things like that, but now I realize that can be used for more things, now all that remains is to practice and make mistakes since mistakes make perfect.
+- ### “'Si lo puedes imaginar, lo puedes programar'" -(Alejandro Miguel Taboada)
+
+<div>
+
+<div align=center>
+<img src="../imagenes/U3/miguel.jpeg" height="300" width="350" />
 <div>
 
 [BACK TO TIC TAC TOE](#TIC_TAC_TOE)
