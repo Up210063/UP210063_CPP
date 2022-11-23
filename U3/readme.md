@@ -290,6 +290,7 @@ ______________
 
     In conclusion, I can say that this project was a very complex challenge for me since I had never done this type of exercise, normally I thought that C++ was used to create things like programs to take averages, menus or things like that, but now I realize that can be used for more things, now all that remains is to practice and make mistakes since mistakes make perfect.
 - ### “'Si lo puedes imaginar, lo puedes programar'" -(Alejandro Miguel Taboada)
+- ### “'If you can imagine it, you can program it'" -(Alejandro Miguel Taboada)
 
 <div>
 
